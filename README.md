@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m @DaurenCodes, I'm an Industrial Engineering student with specialization in electrical Power Engineering at @RWTHAachen and I've just started my journey as a developer. 🚀 I'm eager to use my skills to pursue a career in the energy sector. I'm passionate about learning new technologies and building projects that solve real-world problems. Currently, I'm working on various topics and projects to enhance my skills.
+- 👋 Hi, I’m @DaurenCodes, I'm an Industrial Engineering student with specialization in electrical Power Engineering at RWTH Aachen and I've just started my journey as a developer. 🚀 I'm eager to use my skills to pursue a career in the energy sector. I'm passionate about learning new technologies and building projects that solve real-world problems. Currently, I'm working on various topics and projects to enhance my skills.
 
 ## My Skills and Interests
   - 👀 Here are some of the areas I'm currently focusing on:
