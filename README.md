@@ -20,4 +20,4 @@ Here are some of the projects I'm working on:
 - **Technologies Used**: Python, PowerFactory
 
 ## Thank You!
-Thank you for visiting my GitHub profile. I hope you find my projects interesting and useful. I'm always looking to improve my programming skills, collaborate with like-minded people, and create cool projects. Happy coding! 💻
+Thank you for visiting my GitHub profile. I hope you find my projects interesting and useful. I'm always looking to improve my programming skills, collaborate with like-minded people, and create cool projects! 💻
