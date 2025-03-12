@@ -2,13 +2,15 @@
 - 👋 Hi, I’m @DaurenCodes, and I've just started my journey as a developer. 🚀 I have a background in electrical power engineering and I'm eager to use my skills to pursue a career in the energy sector. I'm passionate about learning new technologies and building projects that solve real-world problems. Currently, I'm working on various topics and projects to enhance my skills.
 
 ## My Skills and Interests
-- 👀 Here are some of the areas I'm currently focusing on:
-- 🐍 **Python Development**
-- 📄 **XML Data Parsing**
-- 📊 **JSON and Excel Report Generation**
-- 🛠️ **Logging and Debugging**
-- 🌐 **Server-Side Scripting**
-- 🤖 **Automating Tasks with Python**
+  - 👀 Here are some of the areas I'm currently focusing on:
+  - 🐍 **Python Development**
+  - 🧩 **Object-Oriented Programming**
+  - 📄 **XML Data Parsing**
+  - 📊 **JSON and Excel Report Generation**
+  - 🛠️ **Logging and Debugging**
+  - 🌐 **Server-Side Scripting**
+  - 🤖 **Automating Tasks with Python**
+
 
 ## Projects
 Here are some of the projects I'm working on:
