@@ -14,12 +14,12 @@
 
 ## Projects
 Here are some of the projects I'm working on:
-### Project 1: XML to JSON and Excel Report Generator 📄📊
-- **Description**: A project to read XML datasets and generate reports in both JSON and Excel formats.
-- **Technologies Used**: Python, XML, JSON, Excel, Logging
-### Project 2: PowerFactory Test Simulations ⚡🔧
-- **Description**: Using Python for test simulations and testing the power grid infrastructure with PowerFactory, a grid simulation tool.
-- **Technologies Used**: Python, PowerFactory
+  ### Project 1: XML to JSON and Excel Report Generator 📄📊
+  - **Description**: A project to read XML datasets and generate reports in both JSON and Excel formats.
+  - **Technologies Used**: Python, XML, JSON, Excel, Logging
+  ### Project 2: PowerFactory Test Simulations ⚡🔧
+  - **Description**: Using Python for test simulations and testing the power grid infrastructure with PowerFactory, a grid simulation tool.
+  - **Technologies Used**: Python, PowerFactory
 
 ## Thank You!
 Thank you for visiting my GitHub profile. I hope you find my projects interesting and useful. I'm always looking to improve my programming skills, collaborate with like-minded people, and create cool projects! 💻
